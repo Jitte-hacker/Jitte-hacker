@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jitte-hacker
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Python and C
+- 🌱 I’m currently learning ...Python and SQL
 - 💞️ I’m looking to collaborate on ...Python problems
 - 📫 How to reach me ...
 
