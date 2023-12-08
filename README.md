@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Jitte-hacker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Python and SQL
-- 💞️ I’m looking to collaborate on ...Python problems
-- 📫 How to reach me ...
 
 <!---
 Jitte-hacker/Jitte-hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jitte-hacker?tab=projects](https://github.com/Jitte-hacker?tab=projects)
 
-- 📝 I regularly write articles on [--NOT-TRUE--](--NOT-TRUE--)
+- 📝 I regularly write articles on [https://jittehacker.medium.com](--NOT-TRUE--)
 
-- 💬 Ask me about **steganography and ctf**
+- 💬 Ask me about **Steganography and CTF**
 
 - 📄 Know about my experiences [https://github.com/Jitte-hacker](https://github.com/Jitte-hacker)
 
